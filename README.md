@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">💻 Currently focused on Data Structures & Algorithms<br>🚀 Building projects to strengthen real-world development skills<br>📌 Goal: Become a skilled Software Engineer and contribute to impactful tech products</h4>
+<!-- <h4 align="left">💻 Currently focused on Data Structures & Algorithms<br>🚀 Building projects to strengthen real-world development skills<br>📌 Goal: Become a skilled Software Engineer and contribute to impactful tech products</h4> -->
 
 ###
 
