@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2023 (and fixing them faster each day)<br>📚 I'm currently learning Data Structures & Algorithms and Generative AI Developer  <br>🚀 Building projects to strengthen real-world development skills<br>🎯 Goals: Crack top tech internships and become a skilled Software Engineer<br>🎲 Fun fact: I debug more than I sleep</h4>
+<h4 align="left">✨ Creating bugs since 2023 (and fixing them faster each day)<br>📚 I'm currently learning Data Structures & Algorithms and Generative AI <br>🚀 Building projects to strengthen real-world development skills<br>🎯 Goals: Crack top tech internships and become a skilled Software Engineer<br>🎲 Fun fact: I debug more than I sleep</h4>
 
 ###
 
