@@ -4,7 +4,7 @@
 
 <h4 align="left">Hi, I'm Deep kamal Gupta B.Tech CSE (AI & ML) student passionate about problem-solving and building efficient solutions.</h4>
  
-###
+### 
 
 <!-- <h4 align="left">💻 Currently focused on Data Structures & Algorithms<br>🚀 Building projects to strengthen real-world development skills<br>📌 Goal: Become a skilled Software Engineer and contribute to impactful tech products</h4> --> 
   
